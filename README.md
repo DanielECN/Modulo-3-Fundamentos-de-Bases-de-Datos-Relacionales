@@ -10,7 +10,7 @@
 ---
 
 
-<img src="https://github.com/DanielECN/BilleteraVirtual/assets/94139814/a83b42b9-443c-47af-816e-90d30ee86ebc" />
+<img src="https://github.com/DanielECN/BilleteraVirtual/assets/94139814/a83b42b9-443c-47af-816e-90d30ee86ebc"  alt="SS"/>
 
 
 
